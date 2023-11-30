@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Calculadora IMC</string>
+    <string name="campo1">altura (metros)</string>
+    <string name="campo2">peso (kg)</string>
+    <string name="exemplo_altura">ex: 1.60</string>
+    <string name="exemplo_peso">ex: 60</string>
+    <string name="botao_calcular">calcular</string>
+    <string name="botao_ver_tabela">ver tabela</string>
+    <string name="resultado">Seu IMC é %1$.2f (%2$s).</string>
+    <string name="resultado_sintomas">Problemas relacionados: %s.</string>
+    <string name="mabaixo_texto">muito abaixo do peso</string>
+    <string name="abaixo_texto">abaixo do peso</string>
+    <string name="ideal_texto">peso normal</string>
+    <string name="acima_texto">sobrepeso</string>
+    <string name="obesidade1_texto">obesidade grau I</string>
+    <string name="obesidade2_texto">obesidade grau II</string>
+    <string name="obesidade3_texto">obesidade grau III</string>
+    <string name="mabaixo_sintomas">queda de cabelo, infertilidade, ausência menstrual</string>
+    <string name="abaixo_sintomas">fadiga, estresse, ansiedade</string>
+    <string name="ideal_sintomas">--</string>
+    <string name="acima_sintomas">fadiga, má circulação, varizes</string>
+    <string name="obesidade1_sintomas">diabetes, angina, infarto, aterosclerose</string>
+    <string name="obesidade2_sintomas">apneia do sono, falta de ar</string>
+    <string name="obesidade3_sintomas">refluxo, dificuldade para se mover, escaras, diabetes, infarto, AVC</string>
+    <string name="peso_ideal">A faixa de peso ideal para sua altura é de %1$.2f kg a %2$.2f kg.</string>
+    <string name="tabela_titulo1">IMC</string>
+    <string name="tabela_titulo2">significado</string>
+    <string name="tabela_titulo3">sintomas</string>
+    <string name="erro">preencha todos os campos</string>
+</resources>

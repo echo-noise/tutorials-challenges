@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="verde1">#B9F8F8</color>
+    <color name="verde2">#A0ECEC</color>
+    <color name="verde3">#7BC9C9</color>
+    <color name="verde4">#39ABAB</color>
+    <color name="lilas1">#C1D2FA</color>
+    <color name="lilas2">#AABFF0</color>
+    <color name="lilas3">#7484AA</color>
+    <color name="lilas4">#505E7F</color>
+    <color name="cinza1">#fafafa</color>
+    <color name="cinza2">#eeeeee</color>
+</resources>
